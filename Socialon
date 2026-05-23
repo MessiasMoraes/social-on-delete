@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Excluir Conta - Social On</title>
+<style>
+body {
+  font-family: Arial;
+  background: #f5f7fa;
+  padding: 30px;
+  color: #333;
+}
+.container {
+  max-width: 600px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+h1 {
+  color: #1877F2;
+}
+</style>
+</head>
+
+<body>
+<div class="container">
+
+<h1>Excluir Conta - Social On</h1>
+
+<p>Você pode solicitar a exclusão da sua conta e dados a qualquer momento.</p>
+
+<h3>📧 Como solicitar</h3>
+<p>Envie um e-mail para:<br>
+<b>meme@memezada.com</b></p>
+
+<h3>📌 Inclua:</h3>
+<ul>
+<li>Seu nome</li>
+<li>Email da conta</li>
+</ul>
+
+<h3>🗑️ Dados que serão excluídos:</h3>
+<ul>
+<li>Perfil</li>
+<li>Frases e posts</li>
+<li>Comentários</li>
+<li>Dados de login</li>
+</ul>
+
+<h3>⏳ Prazo</h3>
+<p>Até 7 dias após solicitação.</p>
+
+<p><b>Social On</b> — Conecte ideias. Compartilhe sentimentos.</p>
+
+</div>
+</body>
+</html>
